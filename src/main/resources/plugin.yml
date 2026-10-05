@@ -1,0 +1,9 @@
+name: ItemPickupToggle
+description: $description
+version: '${version}'
+
+main: com.choespacedout.itemPickupToggle.Core
+api-version: '1.21.4'
+load: POSTWORLD
+
+authors: [ ChloeSpacedOut ]
